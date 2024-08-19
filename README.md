@@ -1,5 +1,5 @@
 # Rainbow2024P4
-This is a poem about Rainbows
+This is a poem about Rainbows and Teddy Bears
 
 Red
 Orange
@@ -8,3 +8,5 @@ Green
 Blue
 Indigo
 Violet
+and a cute little teddy bear
+and a very ugly teddy bear
