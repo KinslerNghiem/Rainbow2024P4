@@ -9,4 +9,4 @@ Blue
 Indigo
 Violet
 and a cute little teddy bear
-and a very ugly teddy bear
+and a very happy teddy bear
