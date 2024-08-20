@@ -10,3 +10,4 @@ Indigo
 Violet
 and a cute little teddy bear
 and a very happy teddy bear
+and a conflicted big teddy bear
